@@ -1,10 +1,10 @@
-# <DISCUSSION_NUMBER>
+# 46628
 
 > **Temporary repository.** Created on 2026-10-01 only as a minimal reproduction for
-> renovatebot/renovate discussion <DISCUSSION_URL>. It has no other purpose.
+> renovatebot/renovate discussion https://github.com/renovatebot/renovate/discussions/46628. It has no other purpose.
 > Delete or archive it once that discussion is closed.
 
-Minimal reproduction for Renovate discussion <DISCUSSION_URL>.
+Minimal reproduction for Renovate discussion https://github.com/renovatebot/renovate/discussions/46628.
 
 `deps.txt` pins `Monska85/renovate-repro-changelog-wrong-section-dep` at `0.9.0`
 through a regex custom manager with the `github-tags` datasource. That
@@ -44,4 +44,4 @@ body of the section whose heading contains `0.9.4`.
 
 ## Link to the Renovate issue or Discussion
 
-<DISCUSSION_URL>
+https://github.com/renovatebot/renovate/discussions/46628
