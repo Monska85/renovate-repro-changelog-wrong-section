@@ -1,1 +1,1 @@
-Monska85/renovate-repro-changelog-wrong-section-dep@0.9.0
+Monska85/renovate-repro-changelog-wrong-section-dep@0.9.4
